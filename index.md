@@ -1,5 +1,5 @@
 ---
-title: PBCore Metadata Standard
+title: Esquema de Metadatos - PBCore
 layout: default
 keywords: ["Introduction", "Getting Started"]
 ---
@@ -12,7 +12,7 @@ keywords: ["Introduction", "Getting Started"]
       <span data-toggle="tooltip" data-placement="bottom" title="A guideline for cataloging or describing audiovisual content (as a content standard)" class="big-icon tooltip-parent cataloging">
         <div class="tooltip-arrow hidden">
           <div class="tooltip-interior">
-            A guideline for cataloging or describing audiovisual content (as a content standard)
+            Una guía para catalogar o describir contenido audiovisual (como estándar de contenido)
           </div>
         </div>
       </span>
@@ -21,7 +21,7 @@ keywords: ["Introduction", "Getting Started"]
       <span data-toggle="tooltip" data-placement="bottom" title="A model for building custom databases/applications" class="big-icon tooltip-parent databases">
         <div class="tooltip-arrow hidden">
           <div class="tooltip-interior">
-            A model for building custom databases/applications
+            Un modelo para crear bases de datos/aplicaciones personalizadas
           </div>
         </div>
       </span>
@@ -30,7 +30,7 @@ keywords: ["Introduction", "Getting Started"]
       <span data-toggle="tooltip" data-placement="bottom" title="A guideline for identifying a set of vocabularies for fields describing AV assets" class="big-icon tooltip-parent vocabularies">
         <div class="tooltip-arrow hidden">
           <div class="tooltip-interior">
-            A guideline for identifying a set of vocabularies for fields describing AV assets
+            Una guía para identificar un conjunto de vocabularios para campos que describen recursos (“assets”) audiovisuales
           </div>
         </div>        
       </span>
@@ -42,7 +42,7 @@ keywords: ["Introduction", "Getting Started"]
       <span data-toggle="tooltip" data-placement="bottom" title="A data model for a configurable collection management system (Omeka, Collective Access, etc.) " class="big-icon tooltip-parent collection_management">
         <div class="tooltip-arrow hidden" style="padding-top: 42%;">
           <div class="tooltip-interior">
-            A data model for a configurable collection management system (Omeka, Collective Access, etc.)
+            - Un modelo de datos para sistemas de gestión de colecciones configurables (Omeka, Collective Access, etc.)
           </div>
         </div>
       </span>
@@ -51,7 +51,7 @@ keywords: ["Introduction", "Getting Started"]
       <span data-toggle="tooltip" data-placement="bottom" title="An exchange (import or export) mechanism between applications" class="big-icon tooltip-parent exchange">
         <div class="tooltip-arrow hidden">
           <div class="tooltip-interior">
-            An exchange (import or export) mechanism between applications
+            Un mecanismo de intercambio (importación o exportación) entre aplicaciones
           </div>
         </div>        
       </span>
@@ -60,7 +60,7 @@ keywords: ["Introduction", "Getting Started"]
       <span data-toggle="tooltip" data-placement="bottom" title="A guideline for creating inventory spreadsheets" class="big-icon tooltip-parent spreadsheets">
         <div class="tooltip-arrow hidden">
           <div class="tooltip-interior">
-            A guideline for creating inventory spreadsheets
+            Una guía para crear hojas de cálculo de inventario
           </div>
         </div>
       </span>
