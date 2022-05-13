@@ -1,5 +1,5 @@
 ---
-title: Attributes
+title: Atributos
 layout: default
 section: Schema
 permalink: /attributes
@@ -7,9 +7,10 @@ keywords: ["Schema", "Attributes", "XML", "Creating Records"]
 ---
 
 <span class="definition-icon def-attributes"></span>
-<h2 class="green bold">Attributes Defined</h2>
+<h2 class="green bold">Definiciones de los Atributos </h2>
 
-Attributes are a way to structure additional types of information that PBCore records can include, which specifically used to further clarify the information you provide as a value to an element.
+Los atributos son una forma de estructurar tipos adicionales de información que pueden incluir los registros de PBCore.Específicamente, se utilizan para aclarar aún más la información que proporciona valor a un elemento. 
+
 
 <div id="attributes-defined" class="attribute-list">
   <ul>
