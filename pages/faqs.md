@@ -23,7 +23,7 @@ keywords: ["About", "Introduction", "Getting Started", "FAQs", "Implementation"]
       								<h5 class="mb-0">
       							     <a class="collapsed" data-toggle="collapse" href="#faq-collapse{{ i }}" aria-expanded="false" aria-controls="faq-collapse{{ i }}">
                           <span class="faq-arrow-icon arrow-down"></span>
-                          <span class="bold">Q: </span>
+                          <span class="bold">Pregunta: </span>
                           {{ entry.question }}
       							     </a>
       						     </h5>
@@ -31,7 +31,7 @@ keywords: ["About", "Introduction", "Getting Started", "FAQs", "Implementation"]
   							    <div id="faq-collapse{{ i }}" class="collapse fade" aria-labelledby="faq-heading{{ i }}">
   								     <div class="card-body indent-4">
                         <span class="faq-answer">
-                          <span class="bold faq-answer-a">A: </span>
+                          <span class="bold faq-answer-a">Respuesta: </span>
                           {{ entry.answer | markdownify }}
                         </span>
   								     </div>
