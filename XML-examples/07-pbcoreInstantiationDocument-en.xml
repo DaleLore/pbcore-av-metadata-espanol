@@ -51,206 +51,84 @@
         <creatorRole>Producer</creatorRole>
     </pbcoreCreator>
 <pbcoreCreator>
-<creator>Sharon Grimberg</creator>
-<creatorRole>Producer</creatorRole>
+    <creator>Sharon Grimberg</creator>
+    <creatorRole>Producer</creatorRole>
 </pbcoreCreator>
 <pbcoreCreator>
-<creator>Mark Samels</creator>
-<creatorRole source="PBCore">Executive Producer</creatorRole>
+    <creator>Mark Samels</creator>
+    <creatorRole source="PBCore">Executive Producer</creatorRole>
 </pbcoreCreator>
 <pbcorePublisher>
-<publisher>PBS Distribution</publisher>
-<publisherRole source="PBCore">Distributor</publisherRole>
+    <publisher>PBS Distribution</publisher>
+    <publisherRole source="PBCore">Distributor</publisherRole>
 </pbcorePublisher>
 <pbcoreRightsSummary>
-<rightsSummary source="Back of box"> AMERICAN EXPERIENCE is produced for
-PBS by WGBH Boston. Senior Producer: Sharon Griberg. Executive Producer: Mark
-Samels. Images Courtesy of: Alamy &amp; Getty Images. Additional DVD
-materials and packaging copyright 2016 PBS Distribution. All rights
-reserved.</rightsSummary>
+    <rightsSummary source="Back of box"> AMERICAN EXPERIENCE is produced for PBS by WGBH Boston. Senior Producer: Sharon Griberg. Executive Producer: Mark Samels. Images Courtesy of: Alamy &amp; Getty Images. Additional DVD materials and packaging copyright 2016 PBS Distribution. All rights reserved.</rightsSummary>
 </pbcoreRightsSummary>
 <pbcoreInstantiation>
-<instantiationIdentifier source="WGBH
-Barcode">123456</instantiationIdentifier>
-<instantiationStandard>NTSC</instantiationStandard>
-<instantiationLocation>WGBH</instantiationLocation>
-<instantiationMediaType source="PBCore">Moving
-Image</instantiationMediaType>
-<instantiationGenerations source="PBCore">Copy:
-Access</instantiationGenerations>
-<instantiationDuration>6:00:00</instantiationDuration>
-<instantiationLanguage>eng</instantiationLanguage>
-<instantiationAlternativeModes>English SDH
-Subtitles</instantiationAlternativeModes>
-<instantiationAnnotation>DVD Box Set</instantiationAnnotation>
+    <instantiationIdentifier source="WGBH Barcode">123456</instantiationIdentifier>
+    <instantiationStandard>NTSC</instantiationStandard>
+    <instantiationLocation>WGBH</instantiationLocation>
+    <instantiationMediaType source="PBCore">Moving Image</instantiationMediaType>
+    <instantiationGenerations source="PBCore">Copy:Access</instantiationGenerations>
+    <instantiationDuration>6:00:00</instantiationDuration>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAlternativeModes>English SDH Subtitles</instantiationAlternativeModes>
+    <instantiationAnnotation>DVD Box Set</instantiationAnnotation>
 </pbcoreInstantiation>
-<pbcoreAnnotation>Includes a memorabilia collection of replica documents
-sourced from national and state collections, including the Library of
-Congress. </pbcoreAnnotation>
+<pbcoreAnnotation>
+   Includes a memorabilia collection of replica documents sourced from national and state collections, including the Library of Congress. 
+</pbcoreAnnotation>
 <pbcorePart>
-<pbcoreAssetType source="PBCore">Program</pbcoreAssetType>
-<pbcoreIdentifier source="WGBH">123456-1-BK</pbcoreIdentifier>
-<pbcoreTitle>Billy the Kid</pbcoreTitle>
-<pbcoreSubject >Billy the Kid</pbcoreSubject>
-<pbcoreDescription source="American Experience website">On April 28,
-1881, just days from being hanged for murder, 21-year-old Henry McCarty,
-alias Billy the Kid, outfoxed his jailors and electrified the nation with the
-last in a long line of daring escapes. Just a few weeks later, he was finally
-gunned down by an ambitious sheriff, and the felling of one of the most
-notorious criminals of the age made headlines across the
-country.</pbcoreDescription>
-<pbcoreCreator>
-<creator>John Maggio</creator>
-<creatorRole>Producer</creatorRole>
-</pbcoreCreator>
-<pbcoreCreator>
-<creator>Michael Murphy</creator>
-<creatorRole>Narrator</creatorRole>
-</pbcoreCreator>
+    <pbcoreAssetType source="PBCore">Program</pbcoreAssetType>
+    <pbcoreIdentifier source="WGBH">123456-1-BK</pbcoreIdentifier>
+    <pbcoreTitle>Billy the Kid</pbcoreTitle>
+    <pbcoreSubject >Billy the Kid</pbcoreSubject>
+    <pbcoreDescription source="American Experience website">
+        On April 28, 1881, just days from being hanged for murder, 21-year-old Henry McCarty, alias Billy the Kid, outfoxed his jailors and electrified the nation with the last in a long line of daring escapes. Just a few weeks later, he was finally gunned down by an ambitious sheriff, and the felling of one of the most notorious criminals of the age made headlines across the country.
+    </pbcoreDescription>
+    <pbcoreCreator>
+        <creator>John Maggio</creator>
+        <creatorRole>Producer</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>Michael Murphy</creator>
+        <creatorRole>Narrator</creatorRole>
+    </pbcoreCreator>
 </pbcorePart>
 <pbcorePart>
-<pbcoreAssetType source="PBCore">Program</pbcoreAssetType>
-<pbcoreIdentifier source="WGBH">123456-1-JJ</pbcoreIdentifier>
-<pbcoreTitle>Jesse James</pbcoreTitle>
-<pbcoreSubject>Jesse James</pbcoreSubject>
-<pbcoreDescription source="American Experience website">The legend of
-Jesse James is one of America’s most familiar myths – and one of its most
-wrong-headed. James, so the legend goes, was a Western outlaw, but in
-reality, he never went west. He has been called American’s own Robin Hood,
-yet he robbed both rich and poor, and was never seen to share his ill-gotten
-gains. He was known as a gunfighter – but his victims were almost always
-unarmed. Less heroic than brutal, James was a member of a vicious band of
-Missouri guerrillas during the Civil War, and sought vengeance for the
-Confederate defeat afterwards. In a life steeped in prolific violence and
-bloodshed, he met what was perhaps the most fitting end.</pbcoreDescription>
-<pbcoreCreator>
-<creator>Mark Zwonitzer</creator>
-<creatorRole>Producer</creatorRole>
-</pbcoreCreator>
-<pbcoreCreator>
-<creator>Michael Murphy</creator>
-<creatorRole>Narrator</creatorRole>
-</pbcoreCreator>
+    <pbcoreAssetType source="PBCore">Program</pbcoreAssetType>
+    <pbcoreIdentifier source="WGBH">123456-1-JJ</pbcoreIdentifier>
+    <pbcoreTitle>Jesse James</pbcoreTitle>
+    <pbcoreSubject>Jesse James</pbcoreSubject>
+    <pbcoreDescription source="American Experience website">
+        The legend of Jesse James is one of America’s most familiar myths – and one of its most wrong-headed. James, so the legend goes, was a Western outlaw, but in reality, he never went west. He has been called American’s own Robin Hood, yet he robbed both rich and poor, and was never seen to share his ill-gotten gains. He was known as a gunfighter – but his victims were almost always unarmed. Less heroic than brutal, James was a member of a vicious band of Missouri guerrillas during the Civil War, and sought vengeance for the Confederate defeat afterwards. In a life steeped in prolific violence and bloodshed, he met what was perhaps the most fitting end.
+    </pbcoreDescription>
+    <pbcoreCreator>
+        <creator>Mark Zwonitzer</creator>
+        <creatorRole>Producer</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>Michael Murphy</creator>
+        <creatorRole>Narrator</creatorRole>
+    </pbcoreCreator>
 </pbcorePart>
 <pbcorePart>
-<pbcoreAssetType source="PBCore">Program</pbcoreAssetType>
-<pbcoreIdentifier source="WGBH">123456-1-BC</pbcoreIdentifier>
-<pbcoreTitle>Butch Cassidy and the Sundance Kid</pbcoreTitle>
-<pbcoreSubject>Butch Cassidy</pbcoreSubject>
-<pbcoreSubject>The Sundance Kid</pbcoreSubject>
-<pbcoreDescription source="American Experience website">In an era in
-which cold-blooded killers such as Jesse James and the Younger Brothers
-terrorized the American West, Butch Cassidy, the Sundance Kid and their Wild
-Bunch gang took a smart and methodical approach to bank and train robbery. In
-the 1890s, their thrilling exploits – robbing banks and trains and then
-seemingly vanishing into thin air – became front-page news and the basis of
-rumor and myth, captivating Americans from coast to
-coast.</pbcoreDescription>
-<pbcoreCreator>
-<creator>John Maggio</creator>
-<creatorRole>Producer</creatorRole>
-</pbcoreCreator>
-<pbcoreCreator>
-<creator>Michael Murphy</creator>
-<creatorRole>Narrator</creatorRole>
-</pbcoreCreator>
+    <pbcoreAssetType source="PBCore">Program</pbcoreAssetType>
+    <pbcoreIdentifier source="WGBH">123456-1-BC</pbcoreIdentifier>
+    <pbcoreTitle>Butch Cassidy and the Sundance Kid</pbcoreTitle>
+    <pbcoreSubject>Butch Cassidy</pbcoreSubject>
+    <pbcoreSubject>The Sundance Kid</pbcoreSubject>
+    <pbcoreDescription source="American Experience website">
+        In an era in which cold-blooded killers such as Jesse James and the Younger Brothers terrorized the American West, Butch Cassidy, the Sundance Kid and their Wild Bunch gang took a smart and methodical approach to bank and train robbery. In the 1890s, their thrilling exploits – robbing banks and trains and then seemingly vanishing into thin air – became front-page news and the basis of rumor and myth, captivating Americans from coast to coast.
+    </pbcoreDescription>
+    <pbcoreCreator>
+        <creator>John Maggio</creator>
+        <creatorRole>Producer</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>Michael Murphy</creator>
+        <creatorRole>Narrator</creatorRole>
+    </pbcoreCreator>
 </pbcorePart>
 </pbcoreDescriptionDocument>
-
-<!-- 
-Here is an example of a pbcoreDescriptionDocument that uses pbcorePart to describe the different programs included in a single box set: 
-
-DESCRIPTION DOCUMENT
-ASSET TYPE: Compilation
-Source: PBCore
-IDENTIFIER: 978-1-62789-267-4
-Source: ISBN
-IDENTIFIER: 123456
-Source: WGBH Barcode
-TITLE: Wild West
-Title Type: Box Set
-DESCRIPTION: They were "heroes" and rebels, but they were all epic personalities who took center stage in the creation of the mythic Wild West. This superb selection of documentaries and authentically reproduced memorabilia combine to present compelling portraits of the icons who risked everything in a dazzling new land of opportunity.
-Source: Back of box
-GENRE: Documentary
-COVERAGE
-COVERAGE: American West
-COVERAGE TYPE: Spatial
-COVERAGE
-COVERAGE: 19th Century
-COVERAGE TYPE: Temporal
-CREATOR
-CREATOR: WGBH
-CREATOR ROLE: Producer
-CREATOR
-CREATOR: Sharon Griberg
-CREATOR ROLE: Senior Producer
-CREATOR
-CREATOR: Mark Samuels
-CREATOR ROLE: Executive Producer
-Source: PBCore
-PUBLISHER
-PUBLISHER: PBS Distribution
-PUBLISHER ROLE: Distributor
-Source: PBCore
-RIGHTS SUMMARY: AMERICAN EXPERIENCE is produced for PBS by WGBH Boston. Senior Producer: Sharon Griberg. Executive Producer: Mark Samels. Images Courtesy of: Alamy & Getty Images. Additional DVD materials and packaging copyright 2016 PBS Distribution. All rights reserved.
-Source: Back of box
-INSTANTIATION
-INSTANTIATION IDENTIFIER: 123456
-Source: WGBH Barcode
-INSTANTIATION STANDARD: NTSC
-INSTANTIATION LOCATION: WGBH
-INSTANTIATION MEDIA TYPE: Moving Image
-Source: PBCore
-INSTANTIATION GENERATIONS: Copy: Access
-Source: PBCore
-INSTANTIATION DURATION: 6:00:00
-INSTANTIATION ALTERNATIVE MODES: English SDH Subtitles
-INSTANTIATION ANNOTATION: DVD Box Set
-PBCORE PART
-ASSET TYPE: Program
-Source: PBCore
-IDENTIFIER: 123456-1-BK
-Source: WGBH
-TITLE: Billy the Kid
-SUBJECT: Billy the Kid
-DESCRIPTION: On April 28, 1881, just days from being hanged for murder, 21-year-old Henry McCarty, alias Billy the Kid, outfoxed his jailors and electrified the nation with the last in a long line of daring escapes. Just a few weeks later, he was finally gunned down by an ambitious sheriff, and the felling of one of the most notorious criminals of the age made headlines across the country.
-Source: American Experience website
-CREATOR
-CREATOR: John Maggio
-CREATOR ROLE: Producer
-CREATOR
-CREATOR: Michael Murphy
-CREATOR ROLE: Narrator
-PBCORE PART
-ASSET TYPE: Program
-Source: PBCore
-IDENTIFIER: 123456-1-JJ
-Source: WGBH
-TITLE: Jesse James
-SUBJECT: Jesse James
-DESCRIPTION: The legend of Jesse James is one of America’s most familiar myths – and one of its most wrong-headed. James, so the legend goes, was a Western outlaw, but in reality, he never went west. He has been called American’s own Robin Hood, yet he robbed both rich and poor, and was never seen to share his ill-gotten gains. He was known as a gunfighter – but his victims were almost always unarmed. Less heroic than brutal, James was a member of a vicious band of Missouri guerrillas during the Civil War, and sought vengeance for the Confederate defeat afterwards. In a life steeped in prolific violence and bloodshed, he met what was perhaps the most fitting end.
-Source: American Experience website
-CREATOR
-CREATOR: Mark Zwonitzer
-CREATOR ROLE: Producer
-CREATOR
-CREATOR: Michael Murphy
-CREATOR ROLE: Narrator
-PBCORE PART
-ASSET TYPE: Program
-Source: PBCore
-IDENTIFIER: 123456-1-BC
-Source: WGBH
-TITLE: Butch Cassidy and the Sundance Kid
-SUBJECT: Butch Cassidy
-SUBJECT: The Sundance Kid
-DESCRIPTION: In an era in which cold-blooded killers such as Jesse James and the Younger Brothers terrorized the American West, Butch Cassidy, the Sundance Kid and their Wild Bunch gang took a smart and methodical approach to bank and train robbery. In the 1890s, their thrilling exploits – robbing banks and trains and then seemingly vanishing into thin air – became front-page news and the basis of rumor and myth, captivating Americans from coast to coast.
-Source: American Experience website
-CREATOR
-CREATOR: John Maggio
-CREATOR ROLE: Producer
-CREATOR
-CREATOR: Michael Murphy
-CREATOR ROLE: Narrator
-
--->
