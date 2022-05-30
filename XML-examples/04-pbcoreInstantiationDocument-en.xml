@@ -9,13 +9,3 @@
         source="PBCore Handbook">00001</instantiationIdentifier>
     <instantiationLocation>Library of Congress</instantiationLocation>
 </pbcoreInstantiationDocument>
-
-<!-- Here is an example of a pbcoreInstantiationDocument using only the minimum required
-elements for the document to be valid 
-
-INSTANTIATION DOCUMENT
-INSTANTIATION IDENTIFIER: 00001
-Source: PBCore Handbook
-INSTANTIATION LOCATION: Library of Congress
-
--->
