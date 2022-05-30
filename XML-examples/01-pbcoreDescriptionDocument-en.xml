@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pbcoreDescriptionDocument
+  xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html
+  https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+
+  <pbcoreIdentifier source="PBCore Handbook">00001</pbcoreIdentifier>
+  <pbcoreTitle>Hamlet</pbcoreTitle>
+  <pbcoreDescription>Filmed production of Shakespeare's Hamlet</pbcoreDescription>
+  
+</pbcoreDescriptionDocument>
