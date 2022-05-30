@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<pbcoreDescriptionDocument
+    xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html
+                        https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+
+    <pbcoreAssetType 
+       source="PBCore"> 
+            Episode
+    </pbcoreAssetType>
+        
+    <pbcoreAssetDate dateType="broadcast">11-17-1970</pbcoreAssetDate>
+    <pbcoreIdentifier source="PBCore Handbook">00001</pbcoreIdentifier>
+    <pbcoreTitle titleType="Episode">Hamlet</pbcoreTitle>
+    <pbcoreTitle titleType="Series">ITV Sunday Night Theater</pbcoreTitle>
+
+    <pbcoreSubject
+        ref="http://id.loc.gov/authorities/subjects/sh2008109991.html"
+        source="Library of Congress Subject Headings">
+            Princes--Denmark--Drama 
+    </pbcoreSubject>
+
+    <pbcoreDescription> Filmed production of Shakespeare's Hamlet</pbcoreDescription>
+    <pbcoreGenre source="IMDB">Drama</pbcoreGenre>
+    <pbcoreRelation>
+        <pbcoreRelationType source="PBCore">Has Derivative</pbcoreRelationType>
+        <pbcoreRelationIdentifier 
+            annotation="A two-disc audio set comprising the soundtrack of the production">
+                00038
+        </pbcoreRelationIdentifier>
+    </pbcoreRelation>
+
+    <pbcoreCoverage>
+        <coverage>Denmark</coverage>
+        <coverageType>Spatial</coverageType>
+    </pbcoreCoverage>
+    <pbcoreAudienceLevel 
+        source="EBU Intended Audience Code">
+            General Audience
+    </pbcoreAudienceLevel>
+    <pbcoreAudienceRating 
+        annotation="The program predates TV parental guidelines"> 
+            N/A
+    </pbcoreAudienceRating>
+    <pbcoreCreator>
+        <creator 
+            source="Library of Congress Name Authorities"
+            ref="http://id.loc.gov/authorities/names/n86143606.html">
+                Wood, Peter, 1925-2016
+        </creator>
+        <creatorRole source="PBCore">Director</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+    <creator 
+        source="Library of Congress Name Authorities"
+        ref="http://id.loc.gov/authorities/names/n78095332">
+            Shakespeare, William, 1564-1616</creator>
+        <creatorRole source="PBCore">Author</creatorRole>
+    </pbcoreCreator>
+
+    <pbcoreContributor>
+        <contributor 
+            source="Library of Congress Name Authorities" 
+            ref="http://id.loc.gov/authorities/names/n85158136">
+                Chamberlain, Richard, 1935
+        </contributor>
+        <contributorRole 
+            portrayal="Hamlet"
+            source="PBCore">
+                Actor
+        </contributorRole>
+    </pbcoreContributor>
+
+    <pbcorePublisher>
+        <publisher>Hallmark Hall of Fame Productions, Inc.</publisher>
+    </pbcorePublisher>
+
+    <pbcoreRightsSummary>
+        <rightsSummary>
+            Copyright Chamberlain-LeMaire (U.K.) Limited and ATV Network Limited, 1970
+        </rightsSummary>
+    </pbcoreRightsSummary>
+
+    <pbcoreInstantiation>
+        <instantiationIdentifier 
+            source="OCLC Number">
+                422934074
+        </instantiationIdentifier>
+
+        <instantiationDate dateType="created">11-17-1970</instantiationDate>
+        <instantiationPhysical source="PBCore">Film</instantiationPhysical>
+        <instantiationLocation>
+            UCLA Film and Television Archive
+        </instantiationLocation>
+        <instantiationMediaType source="PBCore">Moving Image</instantiationMediaType>
+
+        <instantiationGenerations
+            source="PBCore">Original
+        </instantiationGenerations>
+        
+        <instantiationDuration>01:30:00</instantiationDuration>
+        <instantiationColors source="">Color</instantiationColors>
+        <instantiationLanguage>eng</instantiationLanguage>
+    </pbcoreInstantiation>
+    <pbcoreInstantiation>
+        <instantiationIdentifier 
+            source="Paley Center for Media Catalog">
+                T:31586
+        </instantiationIdentifier>
+        <instantiationDate dateType="created">11/17/1970</instantiationDate>
+        <instantiationPhysical 
+            source="PBCore">
+                Open reel videotape
+        </instantiationPhysical>
+        <instantiationLocation>Paley Center for Media</instantiationLocation>
+        <instantiationMediaType source="PBCore">Moving Image</instantiationMediaType>
+        <instantiationGenerations source="PBCore">Copy</instantiationGenerations>
+        <instantiationDuration>01:49:43</instantiationDuration>
+        <instantiationColors source="">Black and white</instantiationColors>
+        <instantiationLanguage>eng</instantiationLanguage>
+    </pbcoreInstantiation>
+
+    <pbcoreAnnotation>
+        Program initially broadcast in the UK as part of ITV Sunday Night Theater and in the United States as part of NBC's Hallmark Hall of Fame 
+    </pbcoreAnnotation>
+</pbcoreDescriptionDocument>
+
