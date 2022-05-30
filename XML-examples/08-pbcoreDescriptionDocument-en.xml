@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<pbcoreDescriptionDocument  
+	xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+	xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html  
+https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">  
+
+<pbcoreAssetType source="PBCore">Compilación</pbcoreAssetType>  
+<pbcoreIdentifier source="ISBN">978-1-62789-267-4</pbcoreIdentifier>  
+<pbcoreIdentifier source="Barra de código de WGBH">123456</pbcoreIdentifier>  
+<pbcoreTitle titleType="Caja de DVDs">Wild West</pbcoreTitle>  
+<pbcoreDescription descriptionType="ítem" source="Caja de DVDs">Fueron “héroes” y rebeldes, pero todos fueron personalidades únicas con un rol central en la creación del mítico Lejano Oeste. Esta magnífica colección es una combinación de documentales y memorabilia reproducida con autenticidad para presentar asombrosos retratos de aquellos iconos que arriesgaron todo en una nueva y deslumbrante tierra de oportunidades. 
+</pbcoreDescription> 
+<pbcoreCreator> 
+	<creator>WGBH</creator> 
+	<creatorRole>Productor</creatorRole>
+</pbcoreCreator> 
+<pbcoreCreator> 
+	<creator>Sharon Grimberg</creator> 
+	<creatorRole>Productor Senior
+</creatorRole> 
+</pbcoreCreator> 
+<pbcoreCreator> 
+	<creator>Mark Samels</creator> 
+	<creatorRole source="PBCore">Productor Ejecutivo</creatorRole>  
+</pbcoreCreator> 
+<pbcorePublisher> 
+	<publisher>PBS Distribution</publisher> 
+	<publisherRole source="PBCore">Distributor</publisherRole>  
+</pbcorePublisher> 
+<pbcoreRightsSummary> 
+	<rightsSummary source="contraportada de la caja">AMERICAN EXPERIENCE es una producción de WGBH Boston para PBS. Productor Senior: Sharon Griberg. Productor Ejecutivo: Mark Samels. Las imágenes son cortesía de: Alamy y Getty Images. Los materiales adicionales del DVD y el envoltorio son copyright 2016 de PBS Distribution. Todos los derechos reservados.</rightsSummary>
+</pbcoreRightsSummary> 
+<pbcoreInstantiation> 
+	<instantiationIdentifier source="Código de barras de WGBH">123456</instantiationIdentifier> 
+	<instantiationStandard>NTSC</instantiationStandard> 
+	<instantiationLocation>WGBH</instantiationLocation> 
+	<instantiationMediaType source="PBCore">Imagen en movimiento</instantiationMediaType> 
+<instantiationGenerations source="PBCore">Copia: Acceso</instantiationGenerations> 
+	<instantiationDuration>6:00:00</instantiationDuration> 
+	<instantiationLanguage>eng</instantiationLanguage> 
+	<instantiationAlternativeModes>Subtítulos en inglés SDH </instantiationAlternativeModes> 
+	<instantiationAnnotation>Caja de DVD</instantiationAnnotation>  
+<instantiationPart> 
+	<instantiationIdentifier source="Código de barras de WGBH">123456- 1</instantiationIdentifier> 
+	<instantiationPhysical source="PBCore">DVD</instantiationPhysical>
+<instantiationLocation>WGBH</instantiationLocation> 
+</instantiationPart> 
+<instantiationPart> 
+	<instantiationIdentifier source="Código de barras de WGBH">123456-2</instantiationIdentifier> 
+	<instantiationPhysical source="PBCore">DVD</instantiationPhysical>
+<instantiationLocation>WGBH</instantiationLocation> 
+</instantiationPart> 
+</pbcoreInstantiation> 
+<pbcoreAnnotation>Incluye una colección de interés de réplicas de documentos obtenidos de colecciones nacionales y estatales, entre ellas la Library of Congress.</pbcoreAnnotation> 
+</pbcoreDescriptionDocument>
