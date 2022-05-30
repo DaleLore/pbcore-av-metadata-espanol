@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<pbcoreInstantiationDocument
+    xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html
+    https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+
+    <instantiationIdentifier 
+        source="PBCoreHandbook">
+            00001
+    </instantiationIdentifier>
+
+    <instantiationDate 
+        dateType="created">
+            12-27-1964
+    </instantiationDate>
+
+    <instantiationDimensions 
+        unitsOfMeasure="ft">
+            4800
+    </instantiationDimensions>
+    
+    <instantiationPhysical 
+        source="PBCore">
+            2 inch videotape
+    </instantiationPhysical>
+    
+    <instantiationStandard>
+        NTSC
+    </instantiationStandard>
+    
+    <instantiationLocation>
+        Library of Congress
+    </instantiationLocation>
+    
+    <instantiationMediaType 
+        source="PBCore">
+            Moving Image
+    </instantiationMediaType>
+    
+    <instantiationGenerations 
+        source="PBCore">
+            Master
+    </instantiationGenerations>
+    
+    <instantiationTimeStart>
+        01:00:00
+    </instantiationTimeStart>
+    
+    <instantiationDuration>
+        00:30:00
+    </instantiationDuration>
+    
+    <instantiationColors 
+        source="PBCore">
+            Color
+    </instantiationColors>
+    
+    <instantiationChannelConfiguration>
+        video, audio, control, and timecode tracks
+    </instantiationChannelConfiguration>
+    
+    <instantiationLanguage>eng</instantiationLanguage>
+    
+    <instantiationRights>
+        <rightsSummary>
+            Copyright unknown; no donor restrictions
+        </rightsSummary>
+    </instantiationRights>
+    
+</pbcoreInstantiationDocument>
+
+
+<!-- 
+
+Here is an example of a pbcoreInstantiationDocument fully describing a physical instance, with all applicable elements filled out.
+
+INSTANTIATION DOCUMENT
+INSTANTIATION IDENTIFIER: 00001
+Source: PBCore Handbook
+INSTANTIATION DATE: 12-27-1964
+Date Type: created
+INSTANTIATION DIMENSIONS: 4800
+Units of Measure: ft
+INSTANTIATION PHYSICAL: 2 inch videotape
+Source: PBCore
+INSTANTIATION STANDARD: NTSC
+INSTANTIATION LOCATION: Library of Congress
+INSTANTIATION MEDIA TYPE: Moving Image
+Source: PBCore
+INSTANTIATION GENERATIONS: Master
+Source: PBCore
+INSTANTIATION TIME START: 01:00:00
+INSTANTIATION DURATION: 00:30:00
+INSTANTIATION COLORS: Color
+Source: PBCore
+INSTANTIATION CHANNEL CONFIGURATION: video, audio, control, and timecode tracks
+INSTANTIATION LANGUAGE: eng
+INSTANTIATION RIGHTS:
+RIGHTS SUMMARY: Copyright unknown; no donor restrictions
+
+
+ -->
