@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<pbcoreCollection 
+	xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html
+	https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+	<pbcoreDescriptionDocument> 
+		<pbcoreIdentifier source="TGIF">19993</pbcoreIdentifier>  
+		<pbcoreTitle titleType="Serie">Sabrina la bruja adolescente</pbcoreTitle>  
+		<pbcoreDescription>
+			Fragmento de un episodio grabado de una serie de televisión sobre una bruja adolesente y sus extravagantes tías
+		</pbcoreDescription> 
+	</pbcoreDescriptionDocument> 
+	<pbcoreDescriptionDocument> 
+		<pbcoreIdentifier source="TGIF">19994</pbcoreIdentifier>  
+		<pbcoreTitle titleType="Serie">Aprendiendo a vivir</pbcoreTitle>
+		<pbcoreDescription>
+			Fragmento de un episodio grabado de una comedia de televisión sobre la vida cotidiana de un niño.
+		</pbcoreDescription> 
+	</pbcoreDescriptionDocument> 
+	<pbcoreDescriptionDocument> 
+		<pbcoreIdentifier source="TGIF">19996</pbcoreIdentifier>  
+		<pbcoreTitle titleType="Serie">Hermana, Hermana</pbcoreTitle>  
+		<pbcoreDescription>
+			Fragmento de un episodio grabado de una comedia de televisión sobre gemelas separadas al nacer. 
+		</pbcoreDescription> 
+	</pbcoreDescriptionDocument> 
+</pbcoreCollection> 
