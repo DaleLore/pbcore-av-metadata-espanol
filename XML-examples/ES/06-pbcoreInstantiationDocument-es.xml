@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generado al 2019-10-24T18:15:11Z por MediaInfoLib - v18.12 -->
+<pbcoreInstantiationDocument
+      xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html
+      https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+    <instantiationIdentifier source="Nombre del archivo">barcode_152572_clip.mov</instantiationIdentifier>
+    <instantiationDate dateType="modified">2018-02-26T19:14:19Z</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard profile="QuickTime">MPEG-4</instantiationStandard>
+    <instantiationLocation>/Users/rebecca_fraimow/Downloads/barcode_152572_clip.mov</instantiationLocation>
+    <instantiationMediaType>Imagen en movimiento</instantiationMediaType>
+    <instantiationFileSize unitsOfMeasure="byte">291475523</instantiationFileSize>
+    <instantiationDuration>00:00:10;00</instantiationDuration>
+    <instantiationDataRate unitsOfMeasure="bit por segundo">232947472</instantiationDataRate>
+    <instantiationTracks>2</instantiationTracks>
+    <instantiationChannelConfiguration> Pista 2: 8 canales (L R C LFE Ls R Rls Rb) </instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+        <essenceTrackType>Video</essenceTrackType>
+        <essenceTrackIdentifier source="identificador">1</essenceTrackIdentifier>
+        <essenceTrackIdentifier source="StreamKindID (MediaInfo)">0</essenceTrackIdentifier>
+        <essenceTrackIdentifier source="StreamOrder (MediaInfo)">0</essenceTrackIdentifier>
+        <essenceTrackStandard>NTSC</essenceTrackStandard>
+        <essenceTrackEncoding source="codecid" ref="v210" annotation="compression_mode:Lossless">YUV</essenceTrackEncoding>
+        <essenceTrackDataRate unitsOfMeasure="bit por segundo" annotation="CBR">223724851</essenceTrackDataRate>
+        <essenceTrackFrameRate annotation="rational_frame_rate:30000/1001 interlacement:BFF">29.970</essenceTrackFrameRate>
+        <essenceTrackBitDepth>10</essenceTrackBitDepth>
+        <essenceTrackFrameSize>720x486</essenceTrackFrameSize>
+        <essenceTrackAspectRatio>1.333</essenceTrackAspectRatio>
+        <essenceTrackTimeStart source="Contenedor">01:00:02.135</essenceTrackTimeStart>
+        <essenceTrackDuration>00:00:10;00</essenceTrackDuration>
+        <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+        <essenceTrackType>Audio</essenceTrackType>
+        <essenceTrackIdentifier source="ID" annotation="default:Yes">2</essenceTrackIdentifier>
+        <essenceTrackIdentifier source="StreamKindID (MediaInfo)">0</essenceTrackIdentifier>
+        <essenceTrackIdentifier source="StreamOrder (MediaInfo)">1</essenceTrackIdentifier>
+        <essenceTrackEncoding source="codecid" ref="in24" annotation="endianness:Little signedness:Signed">PCM</essenceTrackEncoding>
+        <essenceTrackDataRate unitsOfMeasure="bit por segundo" annotation="CBR">9216000</essenceTrackDataRate>
+        <essenceTrackSamplingRate unitsOfMeasure="Hz">48000</essenceTrackSamplingRate>
+        <essenceTrackBitDepth>24</essenceTrackBitDepth>
+        <essenceTrackTimeStart source="Contenedor">01:00:02.135</essenceTrackTimeStart> 
+        <essenceTrackDuration>00:00:10.010</essenceTrackDuration>
+        <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>    
+        <instantiationAnnotation annotationType="Other_Codec_List">QuickTimeTC</instantiationAnnotation>
+        <instantiationAnnotation annotationType="Recuento de cuadros">300</instantiationAnnotation>
+        <instantiationAnnotation annotationType="Encoded_Application">Lavf57.72.101</instantiationAnnotation>
+    
+</pbcoreInstantiationDocument>
