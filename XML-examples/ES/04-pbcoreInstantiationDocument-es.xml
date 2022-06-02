@@ -6,6 +6,6 @@
                         https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
 
     <instantiationIdentifier 
-        source="PBCore Handbook">00001</instantiationIdentifier>
+        source="Manual de PBCore">00001</instantiationIdentifier>
     <instantiationLocation>Library of Congress</instantiationLocation> <!-- Nombre de la organización - Biblioteca del Congreso en los Estados Unidos.-->
 </pbcoreInstantiationDocument>
