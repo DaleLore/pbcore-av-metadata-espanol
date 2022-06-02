@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<pbcoreDescriptionDocument
+    xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html
+                        https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+
+      <pbcoreAssetType source="PBCore">
+              Compilación
+      </pbcoreAssetType>
+
+      <pbcoreIdentifier source="ISBN">
+              978-1-62789-267-4
+      </pbcoreIdentifier>
+
+      <pbcoreIdentifier source=" Código de barras de WGBH">
+              123456
+      </pbcoreIdentifier>
+
+      <pbcoreTitle titleType="Caja de DVDs">
+              Wild West
+      </pbcoreTitle>
+
+      <pbcoreDescription sescriptionType="Item" source="Contraportada de la caja">
+              Fueron “héroes” y rebeldes, pero todos fueron personalidades únicas con un rol central en la creación del mítico Lejano Oeste. Esta magnífica colección es una combinación de documentales y memorabilia reproducida con autenticidad para presentar asombrosos retratos de aquellos iconos que arriesgaron todo en una nueva y deslumbrante tierra de oportunidades. 
+  </pbcoreDescription>
+
+      <pbcoreGenre>
+          Documental
+      </pbcoreGenre>
+
+      <pbcoreCoverage>
+          <coverage>American West</coverage>
+          <coverageType>Spatial</coverageType>
+      </pbcoreCoverage>
+
+      <pbcoreCoverage>
+          <coverage>Siglo diecinueve</coverage>
+          <coverageType>Temporal</coverageType>
+      </pbcoreCoverage>
+
+      <pbcoreCreator>
+          <creator>WGBH</creator>
+          <creatorRole>Productor</creatorRole>
+      </pbcoreCreator>
+  
+      <pbcoreCreator>
+        <creator>Sharon Grimberg</creator>
+        <creatorRole>Productora Senior</creatorRole>
+      </pbcoreCreator>
+  
+      <pbcoreCreator>
+        <creator>Mark Samels</creator>
+        <creatorRole source="PBCore">Productor Ejecutivo</creatorRole>
+      </pbcoreCreator>
+  
+      <pbcorePublisher>
+        <publisher>PBS Distribution</publisher>
+        <publisherRole source="PBCore">Distribuidor</publisherRole>
+      </pbcorePublisher>
+  
+      <pbcoreRightsSummary>
+        <rightsSummary source="Contraportada de la caja"> AMERICAN EXPERIENCE es una producción de WGBH Boston para PBS. Productora Senior: Sharon Griberg. Productor Ejecutivo: Mark Samels. Las imágenes son cortesía de: Alamy y Getty Images. Los materiales adicionales del DVD y el envoltorio son copyright 2016 de PBS Distribution. Todos los derechos reservados.
+        </rightsSummary>
+      </pbcoreRightsSummary>
+  
+      <pbcoreInstantiation>
+        <instantiationIdentifier source="Código de barras de WGBH"> 123456 </instantiationIdentifier> 
+        <instantiationStandard>NTSC</instantiationStandard> 
+        <instantiationLocation>WGBH</instantiationLocation> 
+        <instantiationMediaType source="PBCore">Imagen en movimiento</instantiationMediaType> 
+        <instantiationGenerations source="PBCore">Copia:Acceso</instantiationGenerations> 
+        <instantiationDuration>6:00:00</instantiationDuration> 
+        <instantiationLanguage>eng</instantiationLanguage> 
+        <instantiationAlternativeModes> Subtítulos en inglés SDH </instantiationAlternativeModes> 
+        <instantiationAnnotation>Caja de DVD</instantiationAnnotation> 
+      </pbcoreInstantiation>
+  
+      <pbcoreAnnotation>
+          Incluye una colección de interés de réplicas de documentos obtenidos de colecciones nacionales y estatales, entre ellas la Biblioteca del Congreso de los Estados Unidos.
+      </pbcoreAnnotation> 
+  <pbcorePart> 
+    <pbcoreAssetType source="PBCore">Program</pbcoreAssetType>  
+    <pbcoreIdentifier source="WGBH">123456-1-BK</pbcoreIdentifier>  
+    <pbcoreTitle>Billy the Kid</pbcoreTitle> 
+    <pbcoreSubject >Billy the Kid</pbcoreSubject>  
+    <pbcoreDescription source="American Experience website"> 
+        El 28 de abril de 1881, tan sólo días antes de ser ahoracado por asesinato, Henry McCarty de 21 años, también conocido como Billy the Kid, engañó a sus carceleros y electrificó a la nación con el último de una larga lista de escapes osados. Algunas semanas más tarde, un ambicioso alguacil lo abatió y la caída de uno de los criminales más famosos de la era estuvo en los titulares alrededor del país. 
+    </pbcoreDescription> 
+    
+    <pbcoreCreator> 
+      <creator>John Maggio</creator> 
+      <creatorRole>Productor</creatorRole> 
+    </pbcoreCreator>
+    
+    <pbcoreCreator> 
+      <creator>Michael Murphy</creator> 
+      <creatorRole>Narrador</creatorRole> 
+    </pbcoreCreator>
+  </pbcorePart>
+
+  <pbcorePart>
+    <pbcoreAssetType source="PBCore">Programa</pbcoreAssetType>  
+    <pbcoreIdentifier source="WGBH">123456-1-JJ</pbcoreIdentifier>   
+    <pbcoreTitle>Jesse James</pbcoreTitle> 
+    <pbcoreSubject>Jesse James</pbcoreSubject> 
+
+  <pbcoreDescription source="sitio de American Experience">
+      La leyenda de Jesse James es uno de los mitos más conocidos de los Estados Unidos y uno de los más erróneos. James, según cuenta la leyenda, fue un forajido del Oeste. Pero en realidad, nunca fue al oeste. Lo han llamado el Robin Hood de los estadounidenses, pero robó tanto a ricos como a pobres y nunca se le vio compartir sus ganancias ilícitas. Era conocido como pistolero, pero sus víctimas casi siempre estaban desarmadas. Menos heroico que brutal, James fue miembro de una banda violenta, parte de las guerrillas de Missouri durante la Guerra Civil y posteriormente buscó venganza por la derrota de los Confederados. Tras una vida llena de profunda violencia  y derramamiento de sangre, encontró lo que fue probablemente el final más adecuado.
+    </pbcoreDescription> 
+
+    <pbcoreCreator>
+      <creator>Mark Zwonitzer</creator> 
+      <creatorRole>Productor</creatorRole>
+    </pbcoreCreator>
+    
+    <pbcoreCreator>
+      <creator>Michael Murphy</creator>
+      <creatorRole>Narrator</creatorRole>
+    </pbcoreCreator>
+  </pbcorePart>
+
+  <pbcorePart>
+    <pbcoreAssetType source="PBCore">Programa</pbcoreAssetType>  
+    <pbcoreIdentifier source="WGBH">123456-1-BC</pbcoreIdentifier>  
+    <pbcoreTitle>Butch Cassidy and the Sundance Kid</pbcoreTitle>   
+    <pbcoreSubject>Butch Cassidy</pbcoreSubject> 
+    <pbcoreSubject>The Sundance Kid</pbcoreSubject> 
+    <pbcoreDescription source="sitio de American Experience">
+      En una era en la que asesinos a sangre fría como Jesse James y los hermanos Younger aterrorizaban el oeste estadounidense, Butch Cassidy, Sundance Kid y su pandilla Wild Bunch adoptaron un enfoque inteligente y metódico para el robo de bancos y trenes. En la década de 1890, sus emocionantes hazañas (robaban bancos y trenes y luego parecían esfumarse) se convirtieron en noticias de primera plana  y en la base de rumores y mitos, cautivando a los estadounidenses de costa a costa. 
+    </pbcoreDescription> 
+    
+    <pbcoreCreator> 
+      <creator>John Maggio</creator> 
+      <creatorRole>Productor</creatorRole> 
+    </pbcoreCreator> 
+    
+    <pbcoreCreator> 
+      <creator>Michael Murphy</creator> 
+      <creatorRole>Narrador</creatorRole> 
+    </pbcoreCreator>
+    
+  </pbcorePart>
+</pbcoreDescriptionDocument>
