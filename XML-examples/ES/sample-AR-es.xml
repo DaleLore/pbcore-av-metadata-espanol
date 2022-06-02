@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument
+    xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html
+    http://www.pbcore.org/PBCore/PBCoreSchema.xsd">
+
+    <pbcoreAssetType>Programa</pbcoreAssetType>
+    <pbcoreAssetDate dateType="Radiodifusión">1969-01-01</pbcoreAssetDate>
+    <pbcoreIdentifier source="https://agnbicentenario.mininterior.gob.ar/web/fichatecnica?terms=sucesos%20argentinos"></pbcoreIdentifier>
+    <pbcoreIdentifier source="Número de inventario de AGN">659.C16.1.A</pbcoreIdentifier>
+    <pbcoreTitle titleType="Título">Sucesos Argentinos N 1580</pbcoreTitle>
+    <pbcoreDescription descriptionType="Programa"> Reapertura del cine Monumental con la película "Los Muchachos de antes no usaban gomina"; Destilería de YPF en la que se producen las naftas a partir del craking; Vista aérea del valle del Río Negro; La empresa Ford Motors Argentina realiza en Aloha una fiesta para la presentación al periodismo del modelo Farlaine; Entrenamiento de niños europeos en patinaje sobre hielo; Exhibición de esquí acuático en el Lago San Roque de Carlos Paz provincia de Córdoba; Vista aérea de la ciuda de Buenos Aires. Estación Retiro, migración interna en busca de trabajo.
+    </pbcoreDescription>
+
+    <pbcoreGenre source="Library of Congress Moving Image Genre-Form Guide"> Newsreel</pbcoreGenre>   
+    <pbcoreCreator>
+        <creator>Angel Diaz, Antonio</creator>
+        <creatorRole>Director</creatorRole>
+    </pbcoreCreator>
+  
+    <pbcoreInstantiation>
+        <instantiationIdentifier 
+            source="Número de inventario de AGN">
+            659.C16.1.A
+        </instantiationIdentifier>
+
+        <instantiationPhysical>Película</instantiationPhysical>
+        <instantiationLocation>
+            Tambor 659 (16), Archivo General de la Nación
+        </instantiationLocation>
+        <instantiationMediaType>Imagen en movimiento</instantiationMediaType>
+        <instantiationDuration>0:10:00</instantiationDuration>
+        <instantiationColors>Blanco y negro</instantiationColors>
+        <instantiationLanguage source="ISO 639.3" 
+        ref="https://iso639-3.sil.org/code/spa">spa</instantiationLanguage>
+        <instantiationAnnotation 
+            annotationType="Digitization date">
+                2011-08-17
+        </instantiationAnnotation>
+    </pbcoreInstantiation>
+    <pbcoreInstantiation>
+        <instantiationIdentifier source="N/A"> N/A </instantiationIdentifier>
+        <instantiationDate dateType="radiodifusión">1969-01-01</instantiationDate>
+        <instantiationDigital>N/A</instantiationDigital>
+        <instantiationStandard>N/A</instantiationStandard>
+        <instantiationLocation>N/A</instantiationLocation>
+        <instantiationMediaType>Imagen en movimiento</instantiationMediaType>
+        <instantiationGenerations>N/A</instantiationGenerations>
+        <instantiationTracks>1 video, 1 audio</instantiationTracks>
+        <instantiationEssenceTrack><!-- No data here directly; it's within sub-elements instead -->
+            <essenceTrackType>Video</essenceTrackType>
+            <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+        </instantiationEssenceTrack>
+        <instantiationEssenceTrack><!-- No data here directly; it's within sub-elements instead -->
+            <essenceTrackType>audio</essenceTrackType>
+            <essenceTrackLanguage>spa</essenceTrackLanguage>
+        </instantiationEssenceTrack>
+    </pbcoreInstantiation>
+</pbcoreDescriptionDocument>
