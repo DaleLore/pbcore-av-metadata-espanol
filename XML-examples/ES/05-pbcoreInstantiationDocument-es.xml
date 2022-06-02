@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<pbcoreInstantiationDocument
+    xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html
+    https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+
+    <instantiationIdentifier 
+        source="Manual de PBCore ">
+            00001
+    </instantiationIdentifier>
+
+    <instantiationDate 
+        dateType="creado">
+            12-27-1964
+    </instantiationDate>
+
+    <instantiationDimensions 
+        unitsOfMeasure="pies">
+            4800
+    </instantiationDimensions>
+    
+    <instantiationPhysical 
+        source="PBCore">
+            cinta de video de dos pulgadas
+    </instantiationPhysical>
+    
+    <instantiationStandard>
+        NTSC
+    </instantiationStandard>
+    
+    <instantiationLocation>
+        Library of Congress
+    </instantiationLocation>
+    
+    <instantiationMediaType 
+        source="PBCore">
+            Imagen en movimiento
+    </instantiationMediaType>
+    
+    <instantiationGenerations 
+        source="PBCore">
+            Máster
+    </instantiationGenerations>
+    
+    <instantiationTimeStart>
+        01:00:00
+    </instantiationTimeStart>
+    
+    <instantiationDuration>
+        00:30:00
+    </instantiationDuration>
+    
+    <instantiationColors 
+        source="PBCore">
+            Color
+    </instantiationColors>
+    
+    <instantiationChannelConfiguration>
+        video, audio, control y pistas de código de tiempo
+    </instantiationChannelConfiguration>
+    
+    <instantiationLanguage>eng</instantiationLanguage>
+    
+    <instantiationRights>
+        <rightsSummary>
+            Copyright desconocido; sin restricciones de donantes
+        </rightsSummary>
+    </instantiationRights>
+    
+</pbcoreInstantiationDocument>
