@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<pbcoreDescriptionDocument
+    xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html
+                        https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+
+    <pbcoreAssetType 
+       source="PBCore"> 
+            Episodio <!-- Tipo de Recurso-->
+    </pbcoreAssetType>
+        
+    <pbcoreAssetDate dateType="transmisión">11-17-1970</pbcoreAssetDate> <!-- Fecha de transmisión-->
+    <pbcoreIdentifier source="PBCore Handbook">00001</pbcoreIdentifier> <!-- Identificador del recurso con su fuente -->
+    <pbcoreTitle titleType="Episode">Hamlet</pbcoreTitle> <!-- Nombre del título -->
+    <pbcoreTitle titleType="Series">ITV Sunday Night Theater</pbcoreTitle> <!-- Nombre del título del serie (en inglés)-->
+
+    <pbcoreSubject
+        ref="http://id.loc.gov/authorities/subjects/sh2008109991.html"
+        source="Library of Congress Subject Headings">
+            Príncipes--Dinamarca--Drama
+    </pbcoreSubject>
+
+    <pbcoreDescription> Puesta en escena filmada de Hamlet de Shakespeare
+</pbcoreDescription>
+    <pbcoreGenre source="IMDB">Drama</pbcoreGenre>
+    <pbcoreRelation>
+        <pbcoreRelationType source="PBCore">Has Derivative</pbcoreRelationType> <!-- Hay un derivative del recurso--!>
+        <pbcoreRelationIdentifier 
+            annotation="Un conjunto de dos discos de audio con la banda sonora de la producción">
+                00038
+        </pbcoreRelationIdentifier>
+    </pbcoreRelation>
+
+    <pbcoreCoverage>
+        <coverage>Dinamarca</coverage>
+        <coverageType>Spatial</coverageType> <!-- Se refiere a Espacial. Spatial es parte de los vocabularios controlados -->
+    </pbcoreCoverage>
+    <pbcoreAudienceLevel 
+        source="EBU Intended Audience Code">
+            Público General
+    </pbcoreAudienceLevel>
+    <pbcoreAudienceRating 
+        annotation="El programa es anterior a la televisión con clasificación por edades."> 
+            N/A
+    </pbcoreAudienceRating>
+    <pbcoreCreator>
+        <creator 
+            source="Library of Congress Name Authorities"
+            ref="http://id.loc.gov/authorities/names/n86143606.html">
+                Wood, Peter, 1925-2016
+        </creator>
+        <creatorRole source="PBCore">Director</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+    <creator 
+        source="Library of Congress Name Authorities"
+        ref="http://id.loc.gov/authorities/names/n78095332">
+            Shakespeare, William, 1564-1616</creator>
+        <creatorRole source="PBCore">Autor</creatorRole>
+    </pbcoreCreator>
+
+    <pbcoreContributor>
+        <contributor 
+            source="Library of Congress Name Authorities" 
+            ref="http://id.loc.gov/authorities/names/n85158136">
+                Chamberlain, Richard, 1935
+        </contributor>
+        <contributorRole 
+            portrayal="Hamlet"
+            source="PBCore">
+                Actor
+        </contributorRole>
+    </pbcoreContributor>
+
+    <pbcorePublisher>
+        <publisher>Hallmark Hall of Fame Productions, Inc.</publisher>
+    </pbcorePublisher>
+
+    <pbcoreRightsSummary>
+        <rightsSummary>
+            Copyright de Chamberlain-LeMaire (Reino Unido) Limited y ATV Network Limited, 1970
+        </rightsSummary>
+    </pbcoreRightsSummary>
+
+    <pbcoreInstantiation>
+        <instantiationIdentifier 
+            source="OCLC Number">
+                422934074
+        </instantiationIdentifier>
+
+        <instantiationDate dateType="created">11-17-1970</instantiationDate>
+        <instantiationPhysical source="PBCore">Film</instantiationPhysical>
+        <instantiationLocation>
+            UCLA Film and Television Archive
+        </instantiationLocation>
+        <instantiationMediaType source="PBCore">Imagen en movimiento</instantiationMediaType>
+
+        <instantiationGenerations
+            source="PBCore">
+              Original
+        </instantiationGenerations>
+        
+        <instantiationDuration>01:30:00</instantiationDuration>
+        <instantiationColors source="">Color</instantiationColors>
+        <instantiationLanguage>eng</instantiationLanguage>
+    </pbcoreInstantiation>
+    <pbcoreInstantiation>
+        <instantiationIdentifier 
+            source="Paley Center for Media Catalog">
+                T:31586
+        </instantiationIdentifier>
+        <instantiationDate dateType="created">11/17/1970</instantiationDate>
+        <instantiationPhysical 
+            source="PBCore">
+                cinta de video de carrete abierto
+        </instantiationPhysical>
+        <instantiationLocation>Paley Center for Media</instantiationLocation>
+        <instantiationMediaType source="PBCore">Imagen en movimiento</instantiationMediaType>
+        <instantiationGenerations source="PBCore">Copia</instantiationGenerations>
+        <instantiationDuration>01:49:43</instantiationDuration>
+        <instantiationColors source="">lanco y negro</instantiationColors>
+        <instantiationLanguage>eng</instantiationLanguage> <!-- eng se refiere al inglés pero tenemos que utilizar ISO 639.2 o ISO 639.3 de 3 letras
+códigos de lenguaje -->
+    </pbcoreInstantiation>
+
+    <pbcoreAnnotation>
+        El programa se transmite inicialmente en el Reino Unido como parte del ITV Sunday Night Theater y en los Estados Unidos como parte del NBC’s Hallmark Hall of Fame.
+    </pbcoreAnnotation>
+</pbcoreDescriptionDocument>
