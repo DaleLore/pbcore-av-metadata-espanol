@@ -8,34 +8,31 @@
 
     <pbcoreAssetType 
        source="PBCore"> 
-            Episodio <!-- Tipo de Recurso--!>
+            Episodio <!-- Tipo de Recurso-->
     </pbcoreAssetType>
         
-    <pbcoreAssetDate dateType="transmisión">11-17-1970</pbcoreAssetDate> <!-- Fecha de transmisión --!>
-    <pbcoreIdentifier source="PBCore Handbook">00001</pbcoreIdentifier> <!-- Identificador del recurso con su fuente --!>
+    <pbcoreAssetDate dateType="transmisión">11-17-1970</pbcoreAssetDate> <!-- Fecha de transmisión -->
+    <pbcoreIdentifier source="PBCore Handbook">00001</pbcoreIdentifier> <!-- Identificador del recurso con su fuente -->
     <pbcoreTitle titleType="Episode">Hamlet</pbcoreTitle> <!-- Nombre del título -->
-    <pbcoreTitle titleType="Series">ITV Sunday Night Theater</pbcoreTitle> <!-- Nombre del título del serie (en inglés)--!>
-
+    <pbcoreTitle titleType="Series">ITV Sunday Night Theater</pbcoreTitle> <!-- Nombre del título del serie (en inglés)-->
     <pbcoreSubject
         ref="http://id.loc.gov/authorities/subjects/sh2008109991.html"
         source="Library of Congress Subject Headings">
             Príncipes--Dinamarca--Drama
     </pbcoreSubject>
-
     <pbcoreDescription> Puesta en escena filmada de Hamlet de Shakespeare
 </pbcoreDescription>
     <pbcoreGenre source="IMDB">Drama</pbcoreGenre>
     <pbcoreRelation>
-        <pbcoreRelationType source="PBCore">Has Derivative</pbcoreRelationType> <!-- Hay un derivative del recurso--!>
+        <pbcoreRelationType source="PBCore">Has Derivative</pbcoreRelationType> <!-- Hay un derivative del recurso-->
         <pbcoreRelationIdentifier 
             annotation="Un conjunto de dos discos de audio con la banda sonora de la producción">
                 00038
         </pbcoreRelationIdentifier>
     </pbcoreRelation>
-
     <pbcoreCoverage>
         <coverage>Dinamarca</coverage>
-        <coverageType>Spatial</coverageType> <!-- Se refiere a Espacial. Spatial es parte de los vocabularios controlados --!>
+        <coverageType>Spatial</coverageType> <!-- Se refiere a Espacial. Spatial es parte de los vocabularios controlados -->
     </pbcoreCoverage>
     <pbcoreAudienceLevel 
         source="EBU Intended Audience Code">
@@ -60,7 +57,6 @@
             Shakespeare, William, 1564-1616</creator>
         <creatorRole source="PBCore">Autor</creatorRole>
     </pbcoreCreator>
-
     <pbcoreContributor>
         <contributor 
             source="Library of Congress Name Authorities" 
@@ -73,30 +69,25 @@
                 Actor
         </contributorRole>
     </pbcoreContributor>
-
     <pbcorePublisher>
         <publisher>Hallmark Hall of Fame Productions, Inc.</publisher>
     </pbcorePublisher>
-
     <pbcoreRightsSummary>
         <rightsSummary>
             Copyright de Chamberlain-LeMaire (Reino Unido) Limited y ATV Network Limited, 1970
         </rightsSummary>
     </pbcoreRightsSummary>
-
     <pbcoreInstantiation>
         <instantiationIdentifier 
             source="OCLC Number">
                 422934074
         </instantiationIdentifier>
-
         <instantiationDate dateType="created">11-17-1970</instantiationDate>
         <instantiationPhysical source="PBCore">Film</instantiationPhysical>
         <instantiationLocation>
             UCLA Film and Television Archive
         </instantiationLocation>
         <instantiationMediaType source="PBCore">Imagen en movimiento</instantiationMediaType>
-
         <instantiationGenerations
             source="PBCore">
               Original
@@ -122,9 +113,8 @@
         <instantiationDuration>01:49:43</instantiationDuration>
         <instantiationColors source="">lanco y negro</instantiationColors>
         <instantiationLanguage>eng</instantiationLanguage> <!-- eng se refiere al inglés pero tenemos que utilizar ISO 639.2 o ISO 639.3 de 3 letras
-códigos de lenguaje --!>
+códigos de lenguaje -->
     </pbcoreInstantiation>
-
     <pbcoreAnnotation>
         El programa se transmite inicialmente en el Reino Unido como parte del ITV Sunday Night Theater y en los Estados Unidos como parte del NBC’s Hallmark Hall of Fame.
     </pbcoreAnnotation>
