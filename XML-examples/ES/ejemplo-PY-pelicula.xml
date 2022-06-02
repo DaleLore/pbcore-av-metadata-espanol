@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<pbcoreCollection 
+    xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+<pbcoreDescriptionDocument>
+    <pbcoreAssetType>película</pbcoreAssetType>
+    <pbcoreAssetDate 
+        dateType="estreno" 
+        annotation="IMDB">
+            18 de May0 de 2006
+    </pbcoreAssetDate>
+    <pbcoreIdentifier source="IMDB">tt0482987</pbcoreIdentifier>
+    <pbcoreTitle titleType="Título" annotation="Título original">Hamaca paraguaya</pbcoreTitle>
+    <pbcoreTitle titleType="Título" annotation="Título traducido al inglés"> 
+Paraguayan Hammock</pbcoreTitle>    
+    <pbcoreDescription descriptionType="película">La historia, contada cinematográficamente con unos pocos planos fijos y con diálogos en off, se desarrolla durante un único día, el 14 de junio de 1935. El lugar: un paraje selvático aislado en tierras paraguayas. Los protagonistas: Cándida y Ramón, un matrimonio anciano de campesinos. Su hijo, Maximiliano Ramón Caballero, marchó para combatir en la Guerra del Chaco, y ambos padres esperan su regreso. El padre lo hace con optimismo, confiando en que volverá a ver a su hijo con vida; la madre, sin embargo, se ve embargada por los más funestos presentimientos.
+
+    Ambos esperan bajo un cielo encapotado que no acaba de romper en lluvia, entre un calor -que ni una ráfaga de viento atenúa- y el molesto ladrar de la perra que su hijo les dejó para que cuidaran durante su ausencia. Finalmente, un cartero llega con la respuesta esperada referente al hijo.
+    </pbcoreDescription>
+
+<!-- Sobre la Producción-->
+
+    <pbcoreCreator>
+        <creator> Encina, Paz</creator>
+        <creatorRole>Directora</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator> Encina, Paz</creator>
+        <creatorRole>Guionista</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>Arte France Cinéma</creator>
+        <creatorRole>compañía de producción</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>Black Forest Films</creator>
+        <creatorRole>compañía de co-producción</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>CMW Films</creator>
+        <creatorRole>compañía de producción</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>Fortuna Film</creator>
+        <creatorRole>compañía de producción</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>Lita Stantic Producciones</creator>
+        <creatorRole>compañía de producción</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>Silencio Cine</creator>
+        <creatorRole>compañía de producción</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>Slot Machine</creator>
+        <creatorRole>compañía de producción</creatorRole>
+    </pbcoreCreator>
+    <pbcoreCreator>
+        <creator>Wanda Visión S.A.</creator>
+        <creatorRole>compañía de producción</creatorRole>
+    </pbcoreCreator>
+
+<!-- Sobre el Elenco-->
+
+<pbcoreContributor>
+<contributor source="IMDB"
+    ref="https://www.imdb.com/name/nm2026090/?ref_=tt_cl_t_2"> Genes, Georgina </contributor>
+    <contributorRole portrayal="Candida" source="PBCore">Actriz</contributorRole>
+</pbcoreContributor>
+<pbcoreContributor>
+<contributor source="IMDB"
+    ref="https://www.imdb.com/name/nm5897563/?ref_=tt_cl_t_3"> López, Jorge </contributor>
+    <contributorRole portrayal="Hijo" source="PBCore">Actor</contributorRole>
+</pbcoreContributor>
+<pbcoreContributor>
+<contributor source="IMDB"
+    ref="https://www.imdb.com/name/nm1542367/?ref_=tt_cl_t_1"> Del Rio,  Ramón </contributor>
+    <contributorRole portrayal="Ramón" source="PBCore">Actor</contributorRole>
+</pbcoreContributor>
+
+<!-- Sobre la Distribución-->
+    <pbcorePublisher>
+        <publisher annotation="Argentina">Alfa Films </publisher>
+        <publisherRole source="PBCore">Distribuidor</publisherRole>
+    </pbcorePublisher>
+   <pbcorePublisher>
+        <publisher annotation="Países Bajos">Filmmuseum Distributie</publisher>
+        <publisherRole source="PBCore">Distribuidor</publisherRole>
+    </pbcorePublisher>
+   <pbcorePublisher>
+        <publisher annotation="Francia">ID Distribution</publisher>
+        <publisherRole source="PBCore">Distribuidor</publisherRole>
+    </pbcorePublisher>
+   <pbcorePublisher>
+        <publisher annotation="Argentina">Transeuropa Video Entertainment </publisher>
+        <publisherRole source="PBCore">Distribuidor</publisherRole>
+    </pbcorePublisher>
+
+<pbcoreInstantiation>
+    <instantiationIdentifier source="OCLC Number">1158609149</instantiationIdentifier>
+    <instantiationPhysical source="PBCore">DVD</instantiationPhysical>
+    <instantiationLocation>Transeuropa : MALBA</instantiationLocation>
+    <instantiationMediaType source="PBCore">Imagen en movimiento</instantiationMediaType>
+    <instantiationGenerations source="PBCore">Copia</instantiationGenerations>
+    <instantiationDuration>01:18:00</instantiationDuration>
+    <instantiationColors source="">Color</instantiationColors>
+    <instantiationLanguage>grn</instantiationLanguage>
+</pbcoreInstantiation>
+
+<pbcoreInstantiation>
+   <instantiationIdentifier source="">Falta información </instantiationIdentifier>
+   <instantiationPhysical source="PBCore">35mm Film</instantiationPhysical>
+   <instantiationLocation>ubicación desconocida</instantiationLocation>
+   <instantiationMediaType source="PBCore">Imagen en movimiento</instantiationMediaType>
+   <instantiationGenerations source="PBCore">Original</instantiationGenerations>
+   <instantiationDuration>01:18:00</instantiationDuration>
+   <instantiationColors source="">Color</instantiationColors>
+   <instantiationLanguage>grn</instantiationLanguage>
+</pbcoreInstantiation>
+    </pbcoreDescriptionDocument>
+</pbcoreCollection>
